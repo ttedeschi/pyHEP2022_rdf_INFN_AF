@@ -1,3 +1,5 @@
-name: python 3.8
+name: analysis
+channels:
+  - conda-forge
 dependencies:
-  - python=3.8
+  - root
